@@ -41,3 +41,8 @@ go run test.go
 ~~~
 
 Then you can check the log file: testing.log.
+~~~ go
+◉ 2015/10/25 10:43:17.596285 [INFO] Log Info Message: info
+◉ 2015/10/25 10:43:17.596426 [WARN] Log Warn Message: warn
+◉ 2015/10/25 10:43:17.596433 [ERRO] Log Error Message: error
+~~~
